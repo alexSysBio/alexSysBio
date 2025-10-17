@@ -7,7 +7,7 @@ I am a **Research Specialist** in the **Jacobs-Wagner Lab** at **Stanford Univer
 I am guided by my vision for an openly accessible, ethical science that addresses contemporary biomedical and environmental challenges while expanding our quantitative understanding of fundamental biological processes.
 
 ## Publications 📚
-[![Google Scholar](https://via.placeholder.com/150 "Google Scholar Profile")](https://scholar.google.com/citations?user=sxnPVMcAAAAJ&hl=en)
+[Google Scholar](https://via.placeholder.com/150 "Google Scholar Profile")](https://scholar.google.com/citations?user=sxnPVMcAAAAJ&hl=en)
 
 ---
 
