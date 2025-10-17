@@ -17,7 +17,7 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 
 
 ## Connect with Me
-Feel free to reach out or connect with me on [LinkedIn]([https://www.linkedin.com/in/alex-papagiannakis-singlecells/]) or follow my work here on GitHub.
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/alex-papagiannakis-singlecells/) or follow my work here on GitHub.
 
 ---
 
