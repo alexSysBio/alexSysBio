@@ -1,8 +1,5 @@
 # 🔬 Welcome to My GitHub Profile! 🔬
 
-![Microscope](https://via.placeholder.com/150 "Microscope")
-<!-- Replace the above placeholder with an actual image of a microscope if you have one -->
-
 ## About Me
 I am a **Research Specialist** in the **Jacobs-Wagner Lab** at **Stanford University**. My research integrates **high-content imaging** with **big-data analysis** to understand how cellular functions, homeostasis, and phenotypic variability emerge from the physical interactions between biologically significant components, the scaling of growth constituents, and the biosynthetic gating of cell cycle processes. 
 
@@ -33,18 +30,15 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 
 4. A.D. Sanchez, T.C. Branon, L.E. Cote, **A. Papagiannakis**, X. Liang, M.A. Pickett, K. Shen, C. Jacobs-Wagner, A.Y. Ting, J.L. Feldman (2021).** 
    *Proximity labeling reveals non-centrosomal microtubule-organizing center components required for microtubule growth and localization.* 
-   [Current Biology](https://doi.org/10.1016/j.cub.2021.07.020), 31(16): 3586-3600.e11.  
+   [Current Biology](https://pubmed.ncbi.nlm.nih.gov/34242576/), 31(16): 3586-3600.e11.  
 
 5. 🌟 **A. Papagiannakis**, J.J. de Jonge, Z. Zhang, M. Heinemann (2017).** 
    *Quantitative characterization of the auxin-inducible degron: a guide for dynamic protein depletion in single yeast cells.* 
-   [Scientific Reports](https://doi.org/10.1038/s41598-017-04838-5), 7: 4704.  
+   [Scientific Reports](https://www.nature.com/articles/s41598-017-04791-6), 7: 4704.  
 
 </div>
 
 ---
-
-![Toy Plot](https://via.placeholder.com/150 "Toy Plot")
-<!-- Replace the above placeholder with an actual image of a toy plot if you have one -->
 
 
 ## Connect with Me
