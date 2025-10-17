@@ -3,10 +3,8 @@
 ## About Me
 I am a **Research Specialist** in the **Jacobs-Wagner Lab** at **Stanford University**. My research integrates **high-content imaging** with **big-data analysis** to understand how cellular functions, homeostasis, and phenotypic variability emerge from the physical interactions between biologically significant components, the scaling of growth constituents, and the biosynthetic gating of cell cycle processes. 
 
-<video width="640" height="480" controls>
-    <source src="particle_tracking.mov" type="video/quicktime">
-    Your browser does not support the video tag.
-</video>
+
+[Click here to watch the video](https://username.github.io/YOUR_VIDEO.mov)
 
 
 
