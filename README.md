@@ -22,27 +22,22 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 1. 🌟 **A. Papagiannakis**, Q. Yu, S.K. Govers, W-H. Lin, N.S. Wingreen, and C. Jacobs-Wagner (2025).** 
    *Nonequilibrium polysome dynamics promote chromosome segregation and its coupling to cell growth in Escherichia coli.* 
    [eLife](https://doi.org/10.7554/eLife.104276.3), doi: [10.7554/eLife.104276.3](https://doi.org/10.7554/eLife.104276.3)  
-   ![Publication Icon](https://via.placeholder.com/100 "Publication Icon") 
 
 2. 🌟 **J. Mäkelä***, **A. Papagiannakis***, W-H. Lin, M.C. Lanz, S. Glenn, M. Swaffer, G.K. Marinov, J.M. Skotheim, and C. Jacobs-Wagner (2024).** 
    *Genome concentration limits cell growth and modulates proteome composition in Escherichia coli.* 
    [eLife](https://doi.org/10.7554/eLife.104276.3), 13:RP97465  
-   ![Publication Icon](https://via.placeholder.com/100 "Publication Icon") 
 
 3. 🌟 **A. Papagiannakis**, B. Niebel, E.C. Wit, M. Heinemann (2017).** 
    *Autonomous metabolic oscillations robustly gate the early and the late cell cycle.* 
    [Molecular Cell](https://doi.org/10.1016/j.molcel.2016.11.014), 65(2): 285-295.  
-   ![Publication Icon](https://via.placeholder.com/100 "Publication Icon") 
 
 4. A.D. Sanchez, T.C. Branon, L.E. Cote, **A. Papagiannakis**, X. Liang, M.A. Pickett, K. Shen, C. Jacobs-Wagner, A.Y. Ting, J.L. Feldman (2021).** 
    *Proximity labeling reveals non-centrosomal microtubule-organizing center components required for microtubule growth and localization.* 
    [Current Biology](https://doi.org/10.1016/j.cub.2021.07.020), 31(16): 3586-3600.e11.  
-   ![Publication Icon](https://via.placeholder.com/100 "Publication Icon") 
 
 5. 🌟 **A. Papagiannakis**, J.J. de Jonge, Z. Zhang, M. Heinemann (2017).** 
    *Quantitative characterization of the auxin-inducible degron: a guide for dynamic protein depletion in single yeast cells.* 
    [Scientific Reports](https://doi.org/10.1038/s41598-017-04838-5), 7: 4704.  
-   ![Publication Icon](https://via.placeholder.com/100 "Publication Icon") 
 
 </div>
 
