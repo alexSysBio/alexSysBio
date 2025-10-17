@@ -10,14 +10,14 @@ I am a **Research Specialist** in the **Jacobs-Wagner Lab** at **Stanford Univer
 I am guided by my vision for an openly accessible, ethical science that addresses contemporary biomedical and environmental challenges while expanding our quantitative understanding of fundamental biological processes.
 
 ## Publications
-
+[Google scolar](https://scholar.google.com/citations?user=sxnPVMcAAAAJ&hl=en)
 
 ![Toy Plot](https://via.placeholder.com/150 "Toy Plot")
 <!-- Replace the above placeholder with an actual image of a toy plot if you have one -->
 
 
 ## Connect with Me
-Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/alex-papagiannakis-singlecells/) or follow my work here on GitHub.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alex-papagiannakis-singlecells/) or follow my work on GitHub.
 
 ---
 
