@@ -25,11 +25,11 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 
 2. 🌟 **J. Mäkelä***, **A. Papagiannakis***, W-H. Lin, M.C. Lanz, S. Glenn, M. Swaffer, G.K. Marinov, J.M. Skotheim, and C. Jacobs-Wagner (2024).** 
    *Genome concentration limits cell growth and modulates proteome composition in Escherichia coli.* 
-   [eLife](https://doi.org/10.7554/eLife.104276.3), 13:RP97465  
+   [eLife](https://elifesciences.org/articles/97465), 13:RP97465  
 
 3. 🌟 **A. Papagiannakis**, B. Niebel, E.C. Wit, M. Heinemann (2017).** 
    *Autonomous metabolic oscillations robustly gate the early and the late cell cycle.* 
-   [Molecular Cell](https://doi.org/10.1016/j.molcel.2016.11.014), 65(2): 285-295.  
+   [Molecular Cell](https://pubmed.ncbi.nlm.nih.gov/27989441/), 65(2): 285-295.  
 
 4. A.D. Sanchez, T.C. Branon, L.E. Cote, **A. Papagiannakis**, X. Liang, M.A. Pickett, K. Shen, C. Jacobs-Wagner, A.Y. Ting, J.L. Feldman (2021).** 
    *Proximity labeling reveals non-centrosomal microtubule-organizing center components required for microtubule growth and localization.* 
