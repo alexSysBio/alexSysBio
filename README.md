@@ -14,7 +14,8 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 
 ---
 
-### Most Representative Publications
+### Most Representative Publications 
+(🌟 stanfs for first-author contributions)
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
     
@@ -33,7 +34,7 @@ I am guided by my vision for an openly accessible, ethical science that addresse
    [Molecular Cell](https://doi.org/10.1016/j.molcel.2016.11.014), 65(2): 285-295.  
    ![Publication Icon](https://via.placeholder.com/100 "Publication Icon") 
 
-4. 🌟 A.D. Sanchez, T.C. Branon, L.E. Cote, **A. Papagiannakis**, X. Liang, M.A. Pickett, K. Shen, C. Jacobs-Wagner, A.Y. Ting, J.L. Feldman (2021).** 
+4. A.D. Sanchez, T.C. Branon, L.E. Cote, **A. Papagiannakis**, X. Liang, M.A. Pickett, K. Shen, C. Jacobs-Wagner, A.Y. Ting, J.L. Feldman (2021).** 
    *Proximity labeling reveals non-centrosomal microtubule-organizing center components required for microtubule growth and localization.* 
    [Current Biology](https://doi.org/10.1016/j.cub.2021.07.020), 31(16): 3586-3600.e11.  
    ![Publication Icon](https://via.placeholder.com/100 "Publication Icon") 
