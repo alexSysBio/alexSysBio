@@ -12,8 +12,6 @@ I am a **Research Specialist** in the **Jacobs-Wagner Lab** at **Stanford Univer
 ## Open Science ⚛️
 I am guided by my vision for an openly accessible, ethical science that addresses contemporary biomedical and environmental challenges while expanding our quantitative understanding of fundamental biological processes.
 
----
-
 ### Big-data contributions ###
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
