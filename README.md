@@ -59,6 +59,17 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alex-papagianna
 ---
 
 ## Repositories 🌳
-
+[omePyfun](https://github.com/alexSysBio/omePyfun)
+[DiffractionPySim](https://github.com/alexSysBio/DiffractionPySim)
+[PySimuNS](https://github.com/alexSysBio/PySimuNS)
+[MDtwoPy](https://github.com/alexSysBio/NDtwoPy)
+[sptPY](https://github.com/alexSysBio/sptPy)
+[PyMedialAxis](https://github.com/alexSysBio/PyMedialAxis)
+[UnBack](https://github.com/alexSysBio/UnBack)
+[ManuCure](https://github.com/alexSysBio/ManuCure)
+[SuperMaskClass](https://github.com/alexSysBio/SuperMaskClass)
+[PyntensityProfile](https://github.com/alexSysBio/PyntensityProfile)
+[PycellMask](https://github.com/alexSysBio/PycellMask)
+[UnDrift](https://github.com/alexSysBio/UnDrift)
 
 Thank you for visiting my GitHub profile! 🚀
