@@ -5,7 +5,7 @@
 ## About Me 
 I am a **Research Specialist** in the **Jacobs-Wagner Lab** at **Stanford University**. My research integrates **high-content imaging** with **big-data analysis** to understand how cellular functions, homeostasis, and phenotypic variability emerge from the physical interactions between biologically significant components, the scaling of growth constituents, and the biosynthetic gating of cell cycle processes. 
 
-## Open access
+## Open Science
 I am guided by my vision for an openly accessible, ethical science that addresses contemporary biomedical and environmental challenges while expanding our quantitative understanding of fundamental biological processes.
 
 ## Publications 📚
@@ -13,7 +13,7 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 
 ---
 
-### Most Representative Publications 
+### Most Representative Publications ###
 (🌟 stanfs for first-author contributions)
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
