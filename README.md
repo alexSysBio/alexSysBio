@@ -81,5 +81,5 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alex-papagianna
 
 Thank you for visiting my GitHub profile! 🚀
 
-<img src="https://github.com/yourusername/yourrepository/raw/main/images/your_image.png](https://github.com/alexSysBio/alexSysBio/blob/main/IMG_8688.jpg" alt="Project Overview" width="400"/>
+<img src="https://github.com/yourusername/yourrepository/raw/main/images/your_image.png](https://github.com/alexSysBio/alexSysBio/blob/main/IMG_8688.jpg" alt="Project Overview" width="50%">
 
