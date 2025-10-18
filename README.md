@@ -1,11 +1,11 @@
-# 🔬 Welcome to My GitHub! 🔬
+# 🔬 Welcome to My GitHub! 💻
 
 ![SPT](https://github.com/alexSysBio/alexSysBio/blob/main/particle_tracking.gif)
 
-## About Me 
+## About Me 👤
 I am a **Research Specialist** in the **Jacobs-Wagner Lab** at **Stanford University**. My research integrates **high-content imaging** with **big-data analysis** to understand how cellular functions, homeostasis, and phenotypic variability emerge from the physical interactions between biologically significant components, the scaling of growth constituents, and the biosynthetic gating of cell cycle processes. 
 
-## Open Science
+## Open Science ⚛️
 I am guided by my vision for an openly accessible, ethical science that addresses contemporary biomedical and environmental challenges while expanding our quantitative understanding of fundamental biological processes.
 
 ### Big-data contributions ###
@@ -53,7 +53,7 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 ---
 
 
-## Connect with Me
+## Connect with Me 🤝
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alex-papagiannakis-singlecells/) or follow my work on GitHub.
 
 ---
