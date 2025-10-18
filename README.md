@@ -8,6 +8,16 @@ I am a **Research Specialist** in the **Jacobs-Wagner Lab** at **Stanford Univer
 ## Open Science
 I am guided by my vision for an openly accessible, ethical science that addresses contemporary biomedical and environmental challenges while expanding our quantitative understanding of fundamental biological processes.
 
+### Big-data contributions ###
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+    
+1. [BioImage Archive](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1658)
+2. [BioImage Archive](https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD1350)
+
+</div>
+
+
 ## Publications 📚
 [Google Scholar](https://scholar.google.com/citations?user=sxnPVMcAAAAJ&hl=en)
 
