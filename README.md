@@ -68,7 +68,7 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alex-papagianna
 [DiffractionPySim](https://github.com/alexSysBio/DiffractionPySim) | 
 [PySimuNS](https://github.com/alexSysBio/PySimuNS) | 
 [MDtwoPy](https://github.com/alexSysBio/NDtwoPy) | 
-[sptPY](https://github.com/alexSysBio/sptPy) | 
+[sptPy](https://github.com/alexSysBio/sptPy) | 
 [PyMedialAxis](https://github.com/alexSysBio/PyMedialAxis) | 
 [UnBack](https://github.com/alexSysBio/UnBack) | 
 [ManuCure](https://github.com/alexSysBio/ManuCure) | 
