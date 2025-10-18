@@ -58,12 +58,12 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 ---
 
 
-## Connect with Me 🤝
+## Connect with me 🤝
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alex-papagiannakis-singlecells/) or follow my work on GitHub.
 
 ---
 
-## Repositories 🌳
+## Public repositories 🌳
 [omePyfun](https://github.com/alexSysBio/omePyfun) | 
 [DiffractionPySim](https://github.com/alexSysBio/DiffractionPySim) | 
 [PySimuNS](https://github.com/alexSysBio/PySimuNS) | 
