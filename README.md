@@ -28,7 +28,6 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 ## Publications 📚
 [Google Scholar](https://scholar.google.com/citations?user=sxnPVMcAAAAJ&hl=en)
 
----
 
 ### Most Representative Publications ###
 (🌟 stanfs for first-author contributions)
