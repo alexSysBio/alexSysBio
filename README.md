@@ -29,7 +29,7 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 
 
 ### Most Representative Publications ###
-(🌟 stanfs for first-author contributions)
+(🌟 = first-author contribution)
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
     
