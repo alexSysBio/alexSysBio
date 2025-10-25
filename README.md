@@ -28,7 +28,7 @@ I am guided by my vision for an openly accessible, ethical science that addresse
 [ORCID](https://orcid.org/0000-0002-6363-804X)
 
 
-### Most representative publications ###
+### Most representative works ###
 (🌟 = first-author contribution)
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
