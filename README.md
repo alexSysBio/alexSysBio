@@ -78,7 +78,9 @@ Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/alex-papagianna
 [UnDrift](https://github.com/alexSysBio/UnDrift) | 
 [2DCellProject](https://github.com/alexSysBio/2dCellProject) |
 [ObtrackerPy](https://github.com/alexSysBio/ObtrackerPy) |
-[microlineagePy](https://github.com/alexSysBio/microlineagePy/tree/main) | [membranePySim](https://github.com/alexSysBio/membraneSimPy) |
+[microlineagePy](https://github.com/alexSysBio/microlineagePy/tree/main) | 
+[membranePySim](https://github.com/alexSysBio/membraneSimPy) |
+[areaOverPy](https://github.com/alexSysBio/areaOverPy) |
 
 ---
 
