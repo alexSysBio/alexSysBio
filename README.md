@@ -33,8 +33,8 @@ The work spans every level of biological organization, from single molecules to 
 
 | | |
 |---|---|
-| 🔬 **High-content imaging** | turning raw microscopy into quantitative, time-resolved measurements in individual cells |
-| 🤖 **Big-data analysis & ML** | making that extraction robust across conditions and scales, and identifying the variables that organise heterogeneous populations |
+| 🔬 **High-content imaging** | turning raw microscopy into quantitative, time- and space-resolved measurements in individual cells |
+| 🤖 **Big-data analysis & ML** | making that extraction robust across conditions and scales, and identifying biologically important variables |
 | 📐 **Mathematical modeling** | translating candidate physical mechanisms into predictions that can be tested experimentally |
 
 
