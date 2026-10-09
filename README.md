@@ -27,10 +27,9 @@
 ---
 
 ## Research
+I work at the interface of cell biology and biophysics, combining experiments, machine learning and mathematical modeling to explain, systematically, how the essential molecules for life self-organize to serve essential functions.
 
-I work in **computational systems biology**, at the interface of physics and cell biology. I develop image-analysis pipelines, machine-learning methods and mathematical models to describe how living matter self-organizes into the architectures that cells need in order to function — across levels of biological organisation, from single molecules to cell communities and tissues.
-
-Each layer of the approach contributes something different:
+The work spans every level of biological organization, from single molecules to cell communities and tissues. At its core is a simple observation: the essential macromolecular machines of the cell, actively transcribed DNA and actively translated mRNA, interact according to physical laws, and those interactions recur across all living systems. Due to this universality, the physics that link spatiotemporal order to cellular and tissue physiology can be captured in mechanistic frameworks with a broad reach, from fundamental questions about the origins of life to biomedical applications.
 
 | | |
 |---|---|
@@ -38,7 +37,7 @@ Each layer of the approach contributes something different:
 | 🤖 **Big-data analysis & ML** | making that extraction robust across conditions and scales, and identifying the variables that organise heterogeneous populations |
 | 📐 **Mathematical modeling** | translating candidate physical mechanisms into predictions that can be tested experimentally |
 
-The common thread is that biological order is not imposed from a blueprint but emerges from the physics of the material — from the physical interactions between biologically significant components, the scaling of growth constituents, and the biosynthetic gating of cell cycle processes. The self-organising principles that govern molecular arrangement inside a single cell have counterparts in how cells arrange themselves into communities and tissues.
+
 
 ---
 
@@ -89,7 +88,7 @@ A Python stack for quantitative single-cell microscopy — from raw `.nd2` frame
 <summary><b>🖼️ &nbsp;Image import & preprocessing</b></summary>
 <br>
 
-| Repository | What it does |
+| Public repository | What it does |
 |---|---|
 | [**omePyfun**](https://github.com/alexSysBio/omePyfun) | Reads `.nd2` microscopy files into multidimensional NumPy arrays and writes them as OME-Zarr pyramids |
 | [**NDtwoPy**](https://github.com/alexSysBio/NDtwoPy) | A `pims_nd2` reader supporting different image-iteration axes |
@@ -103,7 +102,7 @@ A Python stack for quantitative single-cell microscopy — from raw `.nd2` frame
 <summary><b>🧫 &nbsp;Segmentation, masks & cell morphology</b></summary>
 <br>
 
-| Repository | What it does |
+| Public repository | What it does |
 |---|---|
 | [**PycellMask**](https://github.com/alexSysBio/PycellMask) | Brings cell segmentation masks from external tools and software into Python |
 | [**SuperMaskClass**](https://github.com/alexSysBio/SuperMaskClass) | Classification of individual cell instances |
@@ -118,7 +117,7 @@ A Python stack for quantitative single-cell microscopy — from raw `.nd2` frame
 <summary><b>🎯 &nbsp;Tracking, lineages & single-cell statistics</b></summary>
 <br>
 
-| Repository | What it does |
+| Public repository | What it does |
 |---|---|
 | [**sptPy**](https://github.com/alexSysBio/sptPy) | A single-particle tracking class |
 | [**ObtrackerPy**](https://github.com/alexSysBio/ObtrackerPy) | Tracking of objects in time-lapse images |
@@ -131,7 +130,7 @@ A Python stack for quantitative single-cell microscopy — from raw `.nd2` frame
 <summary><b>📐 &nbsp;Simulation & modeling</b></summary>
 <br>
 
-| Repository | What it does |
+| Public repository | What it does |
 |---|---|
 | [**DiffractionPySim**](https://github.com/alexSysBio/DiffractionPySim) | Simulation of diffraction-limited spots in the presence of Gaussian noise |
 | [**PySimuNS**](https://github.com/alexSysBio/PySimuNS) | Particle simulations with and without cell confinement and nucleoid exclusion |
@@ -144,7 +143,7 @@ A Python stack for quantitative single-cell microscopy — from raw `.nd2` frame
 
 ## Get in touch 🤝
 
-Always glad to hear from people working on quantitative cell biology, image analysis, or the physics of living systems — reach out on [LinkedIn](https://www.linkedin.com/in/alex-papagiannakis-singlecells/) or open an issue on any of the repositories above.
+Always glad to hear from people working on quantitative cell biology, image analysis, or the physics of living systems: reach out on [LinkedIn](https://www.linkedin.com/in/alex-papagiannakis-singlecells/) or open an issue on any of the repositories above.
 
 <p align="center">
   <img src="https://github.com/alexSysBio/alexSysBio/blob/main/IMG_8688.jpg?raw=1" alt="" width="50%"/>
