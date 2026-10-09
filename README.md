@@ -27,9 +27,9 @@
 ---
 
 ## Research
-I work at the interface of cell biology and biophysics, combining experiments, machine learning and mathematical modeling to explain, systematically, how the essential molecules for life self-organize to serve functions.
+I work at the interface of cell biology and biophysics, combining experiments, machine learning and mathematical modeling to explain systematically how the molecules of life self-organize to serve cellular functions.
 
-My work spans every level of biological organization, from single molecules to cell communities and tissues. At its core is a simple observation: the essential macromolecular machines of the cell, actively transcribed DNA and actively translated mRNA, interact according to physical laws, and those interactions recur across living systems. Due to this universality, the physics that link spatiotemporal order to cellular and tissue physiology can be captured in mechanistic frameworks with a broad reach, from fundamental questions about the origins of life and cytoplasmic organization in bacteria, to biomedical applications.
+My work spans every level of biological organization, from single molecules to cell communities and tissues. At its core is a simple observation: the essential macromolecular machines of the cell, actively transcribed DNA and actively translated mRNA, interact according to physical laws, and those interactions recur across living systems. Due to this universality, the physics that link spatiotemporal order to cellular and tissue physiology can be captured in mechanistic frameworks with a broad reach: from cytoplasmic organization in bacteria, to fundamental questions about the origins of life, to biomedical applications.
 
 | | |
 |---|---|
