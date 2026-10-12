@@ -34,13 +34,11 @@ I work at the interface of cell biology and biophysics, combining experiments, m
 My work spans every level of biological organization, from single molecules to cell communities and tissues, and starts from a simple observation: in the absence of membrane-bound compartmentalization, actively transcribed DNA and actively translated mRNA physically interact in a unified cytoplasmic space. These interactions, obeying physical laws, generate spatial and temporal order wherever they occur. Because the physics is the same, a single mechanistic framework reaches further than the system it was built on: from the origins of life, to cytoplasmic organization in bacteria, to tissue organization and its biomedical applications.
 
 
+| Approach | What it does |
 |---|---|
-
 | 🔬 **High-content imaging** | turning raw microscopy into quantitative, time- and space-resolved measurements in individual cells |
 | 🤖 **Big-data analysis & ML** | making that extraction robust across conditions and scales, and identifying biologically important variables |
 | 📐 **Mathematical modeling** | translating candidate physical mechanisms into predictions that can be tested experimentally |
-
-
 
 ---
 
