@@ -36,9 +36,9 @@ My work spans every level of biological organization, from single molecules to c
 
 | Approach | What it does |
 |---|---|
-| 🔬 **High-content imaging** | turning raw microscopy into quantitative, time- and space-resolved measurements in individual cells |
-| 🤖 **Big-data analysis & ML** | making that extraction robust across conditions and scales, and identifying biologically important variables |
-| 📐 **Mathematical modeling** | translating candidate physical mechanisms into predictions that can be tested experimentally |
+| 🔬 **High-content imaging** | quantitative, time- and space-resolved measurements in individual cells |
+| 🤖 **Big-data analysis & ML** | extracting robust cytoplasmic variables, integrating temporal and spatial scales, and drawing biologically-meaningful correlations |
+| 📐 **Mathematical modeling** | translating candidate physical mechanisms into predictions that can be tested experimentally across species |
 
 ---
 
