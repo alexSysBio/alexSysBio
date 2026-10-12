@@ -29,11 +29,11 @@
 ---
 
 ## Research
-I work at the interface of cell biology and biophysics, combining experiments, machine learning and mathematical modeling to explain how the molecules of life self-organize to serve cellular functions at the systems level.
+I work at the interface of cell biology and biophysics, combining experiments, machine learning and mathematical modeling to explain how the essential molecules of life self-organize to serve cellular functions at the systems level.
 
-My work spans every level of biological organization, from single molecules to cell communities and tissues. At its core is a simple observation: the essential macromolecular machines of the cell, actively transcribed DNA and actively translated mRNA, interact according to physical laws, and those interactions recur across living systems generating spatial and temporal order. Due to this universality, the physics that link spatiotemporal order to cellular and tissue physiology can be captured in mechanistic frameworks with a broad reach: from fundamental questions about the origins of life, to cytoplasmic organization in bacteria and biomedical applications.
+My work spans every level of biological organization, from single molecules to cell communities and tissues, and starts from a simple observation: in the absence of membrane-bound compartmentalization, actively transcribed DNA and actively translated mRNA physically interact in a unified cytoplasmic space. These interactions, obeying physical laws, generate spatial and temporal order wherever they occur. Because the physics is the same, a single mechanistic framework reaches further than the system it was built on: from the origins of life, to cytoplasmic organization in bacteria, to tissue organization and its biomedical applications.
 
-| | |
+
 |---|---|
 | 🔬 **High-content imaging** | turning raw microscopy into quantitative, time- and space-resolved measurements in individual cells |
 | 🤖 **Big-data analysis & ML** | making that extraction robust across conditions and scales, and identifying biologically important variables |
